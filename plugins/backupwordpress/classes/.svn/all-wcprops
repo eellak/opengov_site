@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/dioikitiki-metarithmisi/!svn/ver/99/drasi5/plugins/backupwordpress/classes
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/dioikitiki-metarithmisi/!svn/ver/99/drasi5/plugins/backupwordpress/classes/email.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/dioikitiki-metarithmisi/!svn/ver/99/drasi5/plugins/backupwordpress/classes/error.php
+END
+wp-cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/redmine/dioikitiki-metarithmisi/!svn/ver/99/drasi5/plugins/backupwordpress/classes/wp-cli.php
+END
+schedule.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/redmine/dioikitiki-metarithmisi/!svn/ver/99/drasi5/plugins/backupwordpress/classes/schedule.php
+END
+schedules.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/redmine/dioikitiki-metarithmisi/!svn/ver/99/drasi5/plugins/backupwordpress/classes/schedules.php
+END
+services.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/redmine/dioikitiki-metarithmisi/!svn/ver/99/drasi5/plugins/backupwordpress/classes/services.php
+END

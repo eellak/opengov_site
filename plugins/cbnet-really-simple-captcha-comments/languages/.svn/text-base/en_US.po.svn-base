@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cbnet Really Simple CAPTCHA Comments\n"
+"POT-Creation-Date: 2012-12-20 12:39-0500\n"
+"PO-Revision-Date: 2012-12-20 12:40-0500\n"
+"Last-Translator: Chip Bennett <chip@chipbennett.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Documents and Settings\\wbennett\\My Documents"
+"\\Dev\\GitHub\\cbnet-really-simple-captcha-comments\n"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:41
+msgid "Anti-Spam"
+msgstr "Anti-Spam"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:54
+msgid "Characters"
+msgstr "Characters"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:55
+msgid "Characters available to be used in generated CAPTCHA images"
+msgstr "Characters available to be used in generated CAPTCHA images"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:62
+msgid "Character Length"
+msgstr "Character Length"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:63
+msgid "Number of characters used in generated CAPTCHA images"
+msgstr "Number of characters used in generated CAPTCHA images"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:70
+msgid "Image Width"
+msgstr "Image Width"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:71
+msgid "Width of CAPTCHA image, in pixels (px)"
+msgstr "Width of CAPTCHA image, in pixels (px)"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:78
+msgid "Image Height"
+msgstr "Image Height"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:79
+msgid "Height of CAPTCHA image, in pixels (px)"
+msgstr "Height of CAPTCHA image, in pixels (px)"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:86
+msgid "Image Foreground Color R Value"
+msgstr "Image Foreground Color R Value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:87
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:95
+msgid "Image foreground RGB color R value"
+msgstr "Image foreground RGB color R value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:94
+msgid "Image Foreground Color G Value"
+msgstr "Image Foreground Color G Value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:102
+msgid "Image Foreground Color B Value"
+msgstr "Image Foreground Color B Value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:103
+msgid "Image foreground RGB color B value"
+msgstr "Image foreground RGB color B value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:110
+msgid "Image Background Color R Value"
+msgstr "Image Background Color R Value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:111
+msgid "Image background RGB color R value"
+msgstr "Image background RGB color R value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:118
+msgid "Image Background Color G Value"
+msgstr "Image Background Color G Value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:119
+msgid "Image background RGB color G value"
+msgstr "Image background RGB color G value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:126
+msgid "Image Background Color B Value"
+msgstr "Image Background Color B Value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:127
+msgid "Image background RGB color B value"
+msgstr "Image background RGB color B value"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:134
+msgid "Font Size"
+msgstr "Font Size"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:135
+msgid "Font size in points (pt) of characters in generated CAPTCHA image"
+msgstr "Font size in points (pt) of characters in generated CAPTCHA image"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:142
+msgid "Character Width"
+msgstr "Character Width"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:143
+msgid "Width in pixels (px) between characters in generated CAPTCHA image"
+msgstr "Width in pixels (px) between characters in generated CAPTCHA image"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:150
+msgid "Image File Type"
+msgstr "Image File Type"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:151
+msgid "File type for generated CAPTCHA image"
+msgstr "File type for generated CAPTCHA image"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:158
+msgid "Comment Form Label"
+msgstr "Comment Form Label"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:159
+msgid "Text label to display for the CAPTCHA in the comment form"
+msgstr "Text label to display for the CAPTCHA in the comment form"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:166
+msgid "CAPTCHA Secret Sauce"
+msgstr "CAPTCHA Secret Sauce"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:167
+msgid "If you want to modify this option, please use a filter"
+msgstr "If you want to modify this option, please use a filter"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:191
+msgid "cbnet Really Simple CAPTCHA Comment Settings"
+msgstr "cbnet Really Simple CAPTCHA Comment Settings"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:197
+msgid "Configure cbnet Really Simple CAPTCHA Comments settings here."
+msgstr "Configure cbnet Really Simple CAPTCHA Comments settings here."
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:206
+msgid "Comment Form"
+msgstr "Comment Form"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:228
+msgid "CAPTCHA Word"
+msgstr "CAPTCHA Word"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:254
+msgid "CAPTCHA Font"
+msgstr "CAPTCHA Font"
+
+#: C:\Documents and Settings\wbennett\My
+#: Documents\Dev\GitHub\cbnet-really-simple-captcha-comments/settings.php:280
+msgid "CAPTCHA Image"
+msgstr "CAPTCHA Image"
+
+#~ msgid "Donate"
+#~ msgstr "Donate"
+
+#~ msgid "Posts per page"
+#~ msgstr "Posts per page"
+
+#~ msgid "Order"
+#~ msgstr "Order"
+
+#~ msgid "Order By"
+#~ msgstr "Order By"
+
+#~ msgid "Search Index Page"
+#~ msgstr "Search Index Page"
+
+#~ msgid "Set query options for the Search index page."
+#~ msgstr "Set query options for the Search index page."
+
+#~ msgid "Blog Posts Index Page"
+#~ msgstr "Blog Posts Index Page"
+
+#~ msgid "Set query options for the Blog Posts Index page."
+#~ msgstr "Set query options for the Blog Posts Index page."
+
+#~ msgid "Category Archive Index Page"
+#~ msgstr "Category Archive Index Page"
+
+#~ msgid "Set query options for the Category archive index page."
+#~ msgstr "Set query options for the Category archive index page."
+
+#~ msgid "Tag Archive Index Page"
+#~ msgstr "Tag Archive Index Page"
+
+#~ msgid "Set query options for the Tag archive index page."
+#~ msgstr "Set query options for the Tag archive index page."
+
+#~ msgid "Taxonomy Archive Index Page"
+#~ msgstr "Taxonomy Archive Index Page"
+
+#~ msgid "Set query options for the Taxonomy archive index page."
+#~ msgstr "Set query options for the Taxonomy archive index page."
+
+#~ msgid "Author Archive Index Page"
+#~ msgstr "Author Archive Index Page"
+
+#~ msgid "Set query options for the Author archive index page."
+#~ msgstr "Set query options for the Author archive index page."
+
+#~ msgid "Date Archive Index Page"
+#~ msgstr "Date Archive Index Page"
+
+#~ msgid "Set query options for the Date archive index page."
+#~ msgstr "Set query options for the Date archive index page."
+
+#~ msgid "Archive Index Page"
+#~ msgstr "Archive Index Page"
+
+#~ msgid "Set query options for the default Archive index page."
+#~ msgstr "Set query options for the default Archive index page."
+
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgid "Post ID"
+#~ msgstr "Post ID"
+
+#~ msgid "Post Author"
+#~ msgstr "Post Author"
+
+#~ msgid "Post Title"
+#~ msgstr "Post Title"
+
+#~ msgid "Post Slug"
+#~ msgstr "Post Slug"
+
+#~ msgid "Post Published Date"
+#~ msgstr "Post Published Date"
+
+#~ msgid "Post Modified Date"
+#~ msgstr "Post Modified Date"
+
+#~ msgid "Random"
+#~ msgstr "Random"
+
+#~ msgid "Ascending"
+#~ msgstr "Ascending"
+
+#~ msgid "Descending"
+#~ msgstr "Descending"
+
+#~ msgid "Favicon"
+#~ msgstr "Favicon"
+
+#~ msgid "Upload an image to use as the site Favicon."
+#~ msgstr "Upload an image to use as the site Favicon."
+
+#~ msgid "Favicon file type must be one of ICO, PNG, JPEG, or GIF."
+#~ msgstr "Favicon file type must be one of ICO, PNG, JPEG, or GIF."
+
+#~ msgid "Use supported images only."
+#~ msgstr "Use supported images only."
+
+#~ msgid "Image will be used as-is."
+#~ msgstr "Image will be used as-is."
+
+#~ msgid "cbnet Favicon Options"
+#~ msgstr "cbnet Favicon Options"
+
+#~ msgid "Save Settings"
+#~ msgstr "Save Settings"
+
+#~ msgid "Reset Defaults"
+#~ msgstr "Reset Defaults"
